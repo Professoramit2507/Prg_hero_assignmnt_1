@@ -1,0 +1,199 @@
+
+.open-sans-uniquifier {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+body button:hover{
+    cursor: pointer;
+    background-color: chartreuse;
+    color: black;
+}
+
+.navv{
+    width: 1440px;
+    height: 698px;
+    background-image: url("Assets/Hero-bg.png");
+}
+
+.nav1{
+    display: flex;
+    justify-content: space-around;
+}
+.nav1_clr{
+    margin-top: 50px;
+    color: blue;
+    font-weight: 800;
+    font-size: 34px;
+}
+.buttn{
+    margin-top: 50px;
+    font-weight: 600;
+    background-color: blue;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+.nav_s{
+    text-align: center;
+    margin-top: 158px;
+}
+.navv h1{
+    font-weight: bold;
+    font-size: 65px;
+}
+.nav_btn{
+    font-weight: 600;
+    background-color: blue;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+.nav_s{
+    text-align: center;
+}
+.main_s{
+    display: flex;
+    justify-content: space-around;
+}
+.main_h2{
+    font-weight: bold;
+    font-size: 42px;
+}
+.main_img{
+    width: 403px;
+    height: 328px;
+    border-radius: 20px; 
+    background: #f0f0f0; 
+    display: inline-block; 
+}
+.main_sec{
+    margin: 116px 140px 116px 160px;
+}
+.jc{
+    
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.AFS{
+    display: flex;
+    gap: 100px;
+    margin-left: 17%;
+}
+.type{
+    font-weight: bold;
+    font-size: 60px;
+    color: blue;
+}
+.des{
+    font-size: 20px;
+    font-weight: normal;
+}
+.sec{
+    margin: 116px 141px 137px 159px;
+    background-color: #d2d7e5;
+}
+.sec-div{
+    margin: 50px 142px;
+}
+.an-div{
+    display: flex;
+    justify-content: space-around;
+}
+.an-h1{
+    font-weight: bold;
+    font-size: 60px;
+    margin: 200px 0px 200px 115px;
+}
+.an-sec{
+    margin: 92px 150px 14px 150px;
+   
+}
+.txt{
+    margin: 72px 115px 71px 150px;
+}
+.in-div{
+    width: 467px;
+    height: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.in-txt{
+    width: 497px;
+    height: 167px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.in-sub{
+    font-weight: 600;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    width: 100%;
+}
+.ft-fn{
+    text-align: center;
+    width: 1440px;
+    height: 428px;
+}
+.finish a{
+    margin-right: 15px;
+    text-decoration: none;
+    color: black;
+}
+.finish a:hover{
+    cursor: pointer;
+    background-color: chartreuse;
+}
+.ff{
+    font-weight: bold;
+    font-size: 90px;
+    color: blue;
+}
+.card-sec h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 42px;
+    margin-bottom: 50px;
+}
+.card-sec{
+    width: 1140px;
+    height: 342px;
+    margin-left: 120px;
+}
+.card{
+    display: flex;
+}
+.card-contain1{
+    margin-left: 120px;
+    padding: 10px;
+    border: 2px solid rgb(210, 201, 201);
+    border-radius: 10px;
+}
+.card-contain2{
+    margin-left:20px;
+    padding: 10px;
+    border: 2px solid rgb(210, 201, 201);
+    border-radius: 10px;
+}
+.card-contain3{
+    margin-left: 20px;
+    padding: 10px;
+    border: 2px solid rgb(210, 201, 201);
+    border-radius: 10px;
+}
+.reviewer{
+    display: flex;
+    gap: 10px;
+}
+.font{
+    font-weight: normal;
+}
